@@ -1,0 +1,9 @@
+git init - инициализация гита.
+git config --local/global user.name "Vlad"
+git config --local/global user.email v.zbs123@gmail.com
+git status - check status
+git add -A - добавить все файлы в режим "tracked"
+git commit -a -m"first commit"
+git log - check log
+git push - push to remote repository
+git clone https://github.com/Marty148827/test_project.git project_2
